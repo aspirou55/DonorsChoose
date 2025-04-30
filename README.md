@@ -1,1 +1,1 @@
-# DonorsChoose. First Edits from Akin's branch
+# DonorsChoose ML Project
