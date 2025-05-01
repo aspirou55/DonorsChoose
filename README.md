@@ -1,6 +1,6 @@
 # Crowdfunding to Support Education Needs: Predicting Unfunded Education Projects on DonorsChoose
 ### DonorsChoose ML Project List of Files and Instructions for Running Notebooks and Downloading .csv Datasets
-### By Arthur Spirou, Akin Joseph, & Nikki Chen
+### By Arthur Spirou (aspirou), Akin Joseph (ababujos), & Nikki Chen (yiqichen)
 This repo contains Notebooks associated with predicting projects that are unlikely to be funded in order to prioritize expert resources for DonorsChoose.
 Note: The main source data utilized for this project was provided by Kaggle https://www.kaggle.com/c/kdd-cup-2014-predicting-excitement-at-donors-choose/data
 
